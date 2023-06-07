@@ -1,4 +1,5 @@
 # String manipulation. capitalize, lower, strip
+
 names = []
 surnames = []
 name = input("Add a name\n").strip().capitalize()
